@@ -1,6 +1,6 @@
 # Surf Shop Analysis
 ## Purpose
-Parsing weather data for the months of June and December in Oahu using SQLite in order to provide insight on weather appropriateness/business sustainability for a potential surf & ice cream shop on the island.
+Parsing weather data for the months of June and December in Oahu using SQLAlchemy in order to provide insight on weather appropriateness/business sustainability for a potential surf & ice cream shop on the island.
 
 ## Results 
 Results from the analysis revealed that:
