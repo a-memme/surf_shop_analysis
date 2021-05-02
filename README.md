@@ -17,7 +17,7 @@ Results from the analysis revealed that:
 ## Summary 
 The above analysis gives a basic interpretation and generalization of some summary statistics regarding temperature in Oahu through the months of June and December across a number of years. Here, we can make predictions based on average, minimum and maximum temperatures to estimate what the overall temperature will be year round, thus providing valuable data to base business decisions on. 
 
-However, other analyses and/or queries can be performed to get at further types of data of interest in this specific instance. In the additional_analysis folder, further analyses was performed, achieving the following:
+However, other analyses and/or queries can be performed to get at further areas of interest in the data. In the additional_analysis folder, further analyses was performed, achieving the following:
 - Parsing for date and preciptation using SQLAlchemy ORM and performing a parallel analyses to the original, parsing precipitation values for the months of June and December in Oahu and their respective summary statistics (See SurfsUp_Challenge_Additional_Code file in additional_analysis folder).
 - Finding the mode precipitation for June and December, as well as mode temperature for June and December. SQLAlchemy ORM was used in this instance to query only single preciptation values and only single temperature values with the June and December filters intact (no corresponding date data displayed). 
 - Using Numpy's unravel function to format temperature data to be appropriately plotted in a box-and-whisker plot (reference Fig1_Oahu_temps.png in additional_analysis folder)
